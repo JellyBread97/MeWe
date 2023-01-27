@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+#navbar {
+  background-color: #e8ede9 !important;
+}
+
+#navigation {
+  color: #4c4b63;
+  font-weight: bold;
+  overflow: hidden;
+  transition: 0.5s;
+}
+
+#navigation:hover {
+  color: #2ebc6d;
+}
